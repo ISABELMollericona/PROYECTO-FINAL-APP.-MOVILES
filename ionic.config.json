@@ -1,0 +1,7 @@
+{
+  "name": "farmacias-turno",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
