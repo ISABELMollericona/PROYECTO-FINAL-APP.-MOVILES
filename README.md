@@ -1,6 +1,9 @@
 
 # MediNow
 [Ver video de la app — "Tu farmacia en tus manos"](src/El%20texto%20del%20párrafolla%20nueva%20app%20tu%20farmacia%20en%20tus%20manos.mp4)
+<video controls width="720" src="src/El%20texto%20del%20párrafolla%20nueva%20app%20tu%20farmacia%20en%20tus%20manos.mp4">
+  Tu navegador no soporta la reproducción de video.
+</video>
 
 Proyecto integral para la gestión de turnos y productos en farmacias, con frontend moderno (React/Ionic), backend en Python (Flask) y Node.js, integración con Firebase y Algolia, mapas, IA y pruebas automatizadas.
 
