@@ -1,5 +1,5 @@
 
-# Farmacia Turnos
+# MediNow
 
 Proyecto integral para la gestión de turnos y productos en farmacias, con frontend moderno (React/Ionic), backend en Python (Flask) y Node.js, integración con Firebase y Algolia, mapas, IA y pruebas automatizadas.
 
