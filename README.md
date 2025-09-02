@@ -24,7 +24,11 @@ Proyecto integral para la gestión de turnos y productos en farmacias, con front
   - **public/**: Recursos estáticos.
   - **cypress/**: Pruebas end-to-end.
   - **package.json**: Scripts y dependencias del frontend.
-
+![ILUSTRACION DE DEMO 1](src/Captura de pantalla 2025-09-02 173519.png)
+![ILUSTRACION DE DEMO 2](src/Captura de pantalla 2025-09-02 173525.png)
+![ILUSTRACION DE DEMO 3](src/Captura de pantalla 2025-09-02 173557.png)
+![ILUSTRACION DE DEMO 4](src/Captura de pantalla 2025-09-02 173612.png)
+![ILUSTRACION DE DEMO 5](src/Captura de pantalla 2025-09-02 173616.png)
 ## Instalación y configuración
 
 1. Clona el repositorio:
